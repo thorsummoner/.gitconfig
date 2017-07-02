@@ -1,0 +1,14 @@
+[user]
+	email = thorsummoner@live.com
+	name = Dylan Grafmyre
+[alias]
+	co = checkout
+	ci = commit
+	st = status
+	br = branch
+	diffs = diff --staged
+	logg = log --all --graph --oneline --decorate
+[core]
+	editor = vim
+[push]
+	default = current
